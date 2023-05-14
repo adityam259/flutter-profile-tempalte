@@ -1,2 +1,2 @@
-# flutter-profile-tempalte
+# Flutter-profile-tempalte
 Flutter profile template 
